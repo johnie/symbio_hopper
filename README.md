@@ -1,4 +1,4 @@
-# ![Jira](icon128.png) Symbio Hopper
+# ![Jira](icon48.png) Symbio Hopper
 
 > Chrome Extension with a simple button that opens Hopper
 
